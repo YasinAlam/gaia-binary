@@ -1,0 +1,4 @@
+Color Index?
+Some indexs in specific rows are null, exp: T1, 43
+Are we matching color index and coordinates?
+http://cdn.gea.esac.esa.int/Gaia/
